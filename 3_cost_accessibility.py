@@ -1,4 +1,4 @@
-# accessibility_cost.py
+# 3_cost_accessibility.py
 """
 Problem: Accessibility & Cost
 Solution: Demonstrate a lightweight model suitable for edge devices and a conceptual function for sending SMS alerts to farmers.
