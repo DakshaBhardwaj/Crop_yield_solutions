@@ -1,4 +1,4 @@
-# data_quality_availability.py
+# 1_data_availability.py
 """
 Problem: Data Quality and Availability
 Solution: Data imputation for missing values, basic noise reduction, and a conceptual example of data augmentation.
