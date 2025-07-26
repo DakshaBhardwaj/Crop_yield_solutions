@@ -37,7 +37,7 @@ Each script is self-contained and can be run independently.
 
 ---
 
-### 2. Model Interpretability ([2_model_interpretability.py](crop_yield_solutions/2_model_interpretability.py))
+### 2. Model Interpretability ([2_model_interpretability.py](/2_model_interpretability.py))
 **Problem:** Complex AI models are often black boxes, making it hard to understand predictions.
 
 **Solution:**
@@ -50,7 +50,7 @@ Each script is self-contained and can be run independently.
 
 ---
 
-### 3. Accessibility & Cost ([3_cost_accessibility.py](crop_yield_solutions/3_cost_accessibility.py))
+### 3. Accessibility & Cost ([3_cost_accessibility.py](/3_cost_accessibility.py))
 **Problem:** High costs and infrastructure gaps limit AI adoption in agriculture.
 
 **Solution:**
@@ -62,7 +62,7 @@ Each script is self-contained and can be run independently.
 
 ---
 
-### 4. Optimal Harvest Scheduling ([4_optimal_harvest.py](crop_yield_solutions/4_optimal_harvest.py))
+### 4. Optimal Harvest Scheduling ([4_optimal_harvest.py](/4_optimal_harvest.py))
 **Problem:** Harvest timing is often based on intuition, risking spoilage or lower quality.
 
 **Solution:**
