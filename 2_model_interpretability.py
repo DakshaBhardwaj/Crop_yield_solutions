@@ -1,4 +1,4 @@
-# model_interpretability.py
+# 2_model_interpretability.py
 """
 Problem: Model Interpretability
 Solution: Using SHAP (SHapley Additive exPlanations) to explain the predictions of a Machine Learning model.
