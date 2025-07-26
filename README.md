@@ -24,7 +24,7 @@ Each script is self-contained and can be run independently.
 
 ## Programs
 
-### 1. Data Quality and Availability ([1_data_availability.py](crop_yield_solutions/1_data_availability.py))
+### 1. Data Quality and Availability ([1_data_availability.py](/1_data_availability.py))
 **Problem:** Agricultural datasets often have missing values, noise, and limited size.
 
 **Solution:**
